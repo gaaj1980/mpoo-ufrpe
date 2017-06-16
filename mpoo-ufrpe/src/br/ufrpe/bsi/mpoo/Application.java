@@ -54,8 +54,11 @@ public class Application {
 		List<Aluno> alunos = new ArrayList<Aluno>(40);
 		alunos.add(criarAluno("Nome do Aluno 1", "alunoteste1", 2016, Semestre.PRIMEIRO));
 		//gaaj1980: Inclua a partir da linha abaixo, o código para incluir 
-		//um aluno com os seus dados, conforme exemplo da linha acima 
+		//um aluno com os seus dados, conforme exemplo da linha acima
 		alunos.add(criarAluno("Eric Moritsuka", "Ericthm", 2016, Semestre.PRIMEIRO));
+		alunos.add(criarAluno("Ebony Marques Rodrigues", "EbonyMarques", 2016, Semestre.PRIMEIRO));
+		alunos.add(criarAluno("João José Antonio Souza D'Amorim", "joao-damorim", 2015, Semestre.PRIMEIRO));
+		alunos.add(criarAluno("Edson Cristovam", "Crissky", 2015, Semestre.SEGUNDO));
 		
 		return alunos;
 	}
