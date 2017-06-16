@@ -24,6 +24,7 @@ public class Pessoa {
 	public void imprimir() {
 		System.out.println(this);
 	}
+	
 	@Override
 	public String toString() {
 		return this.nome + "\t- " + this.gitHubUser;

@@ -51,9 +51,7 @@ public class Application {
 
 	private static List<Aluno> criarAlunos() {
 		List<Aluno> alunos = new ArrayList<Aluno>(40);
-		alunos.add(criarAluno("Nome do Aluno 2", "alunoteste2", 2016, Semestre.PRIMEIRO));
 		alunos.add(criarAluno("Nome do Aluno 1", "alunoteste1", 2016, Semestre.PRIMEIRO));
-		alunos.add(criarAluno("Nome do Aluno 3", "alunoteste3", 2015, Semestre.SEGUNDO));
 		//gaaj1980: Inclua a partir da linha abaixo, o código para incluir 
 		//um aluno com os seus dados, conforme exemplo da linha acima 
 		
