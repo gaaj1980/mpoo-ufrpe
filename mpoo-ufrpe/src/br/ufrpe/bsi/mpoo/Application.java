@@ -58,7 +58,7 @@ public class Application {
 		alunos.add(criarAluno("Eric Moritsuka", "Ericthm", 2016, Semestre.PRIMEIRO));
 		alunos.add(criarAluno("Ebony Marques Rodrigues", "EbonyMarques", 2016, Semestre.PRIMEIRO));
 		alunos.add(criarAluno("Jo�o Jos� Antonio Souza D'Amorim", "joao-damorim", 2015, Semestre.PRIMEIRO));
-		alunos.add(criarAluno("Eliana Maria Silva de França", "elianamsf", 2015, Semestre.SEGUNDO));
+		alunos.add(criarAluno("Eliana Maria silva de França", "elianamsf", 2015, Semestre.SEGUNDO));
 		
 		return alunos;
 	}
