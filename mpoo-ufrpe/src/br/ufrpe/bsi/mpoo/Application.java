@@ -62,7 +62,7 @@ public class Application {
 		alunos.add(criarAluno("Edson Cristovam", "Crissky", 2015, Semestre.SEGUNDO));
 		alunos.add(criarAluno("Luiz Carlos Brito de Andrade Lima Filho", "xRuisux", 2016, Semestre.PRIMEIRO));
 		alunos.add(criarAluno("Nicollas Bastos", "nicoedu", 2016, Semestre.PRIMEIRO));
-		
+		alunos.add(criarAluno("Rafael Antonio Martins", "rumala1", 2015, Semestre.SEGUNDO));
 		
 		return alunos;
 		
