@@ -48,13 +48,14 @@ public class Application {
 		entrada.setSemestre(semestre);
 		return entrada;
 	}
+	
 
 	private static List<Aluno> criarAlunos() {
 		List<Aluno> alunos = new ArrayList<Aluno>(40);
-		alunos.add(criarAluno("Nome do Aluno 2", "alunoteste2", 2016, Semestre.PRIMEIRO));
 		alunos.add(criarAluno("Nome do Aluno 1", "alunoteste1", 2016, Semestre.PRIMEIRO));
 		//gaaj1980: Inclua a partir da linha abaixo, o código para incluir 
 		//um aluno com os seus dados, conforme exemplo da linha acima 
+		alunos.add(criarAluno("Nome do Aluno 4", "alunoteste4", 2016, Semestre.PRIMEIRO));
 		
 		return alunos;
 	}
