@@ -59,13 +59,13 @@ public class Application {
 		//um aluno com os seus dados, conforme exemplo da linha acima 
 		alunos.add(criarAluno("Eric Moritsuka", "Ericthm", 2016, Semestre.PRIMEIRO));
 		alunos.add(criarAluno("Ebony Marques Rodrigues", "EbonyMarques", 2016, Semestre.PRIMEIRO));
-		alunos.add(criarAluno("Jo�o Jos� Antonio Souza D'Amorim", "joao-damorim", 2015, Semestre.PRIMEIRO));
-		alunos.add(criarAluno("Eliana Maria silva de Fran�a", "elianamsf", 2015, Semestre.SEGUNDO));
+		alunos.add(criarAluno("João José Antonio Souza D'Amorim", "joao-damorim", 2015, Semestre.PRIMEIRO));
+		alunos.add(criarAluno("Eliana Maria Silva de França","elianamsf", 2015, Semestre.SEGUNDO));
 		alunos.add(criarAluno("Edson Cristovam", "Crissky", 2015, Semestre.SEGUNDO));
 		alunos.add(criarAluno("Luiz Carlos Brito de Andrade Lima Filho", "xRuisux", 2016, Semestre.PRIMEIRO));
 		alunos.add(criarAluno("Nicollas Bastos", "nicoedu", 2016, Semestre.PRIMEIRO));
 		alunos.add(criarAluno("Rafael Antonio Martins", "rumala1", 2015, Semestre.SEGUNDO));
-		alunos.add(criarAluno("N�colas Moura", "nicolas-sss", 2016, Semestre.PRIMEIRO));
+		alunos.add(criarAluno("Nícolas Moura", "nicolas-sss", 2016, Semestre.PRIMEIRO));
 		alunos.add(criarAluno("Francisco Queiroga","chicoqueiroga",2015, Semestre.PRIMEIRO));
 		alunos.add(criarAluno("Luciano Trigueiro", "nanotrigueiro", 2016, Semestre.PRIMEIRO));
 		alunos.add(criarAluno("Jose Augusto de Paiva Neto", "AugustoPaiva", 2015, Semestre.SEGUNDO));
