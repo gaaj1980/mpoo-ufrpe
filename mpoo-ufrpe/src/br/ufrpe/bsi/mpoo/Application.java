@@ -48,6 +48,7 @@ public class Application {
 		entrada.setSemestre(semestre);
 		return entrada;
 	}
+	
 
 	private static List<Aluno> criarAlunos() {
 		List<Aluno> alunos = new ArrayList<Aluno>(40);
