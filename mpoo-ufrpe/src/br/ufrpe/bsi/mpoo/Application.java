@@ -57,6 +57,7 @@ public class Application {
 		//um aluno com os seus dados, conforme exemplo da linha acima 
 		alunos.add(criarAluno("Eric Moritsuka", "Ericthm", 2016, Semestre.PRIMEIRO));
 		alunos.add(criarAluno("Ebony Marques Rodrigues", "EbonyMarques", 2016, Semestre.PRIMEIRO));
+		alunos.add(criarAluno("João José Antonio Souza D'Amorim", "joao-damorim", 2015, Semestre.PRIMEIRO));
 		
 		return alunos;
 	}
