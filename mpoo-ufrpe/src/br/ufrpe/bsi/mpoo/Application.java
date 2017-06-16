@@ -73,7 +73,7 @@ public class Application {
 		alunos.add(criarAluno("Antonio Henrique do Nascimento Soares","AntonioHNS", 2015, Semestre.SEGUNDO));
 		alunos.add(criarAluno("Evele Kelle Lemos Silva","lemosevele", 2015, Semestre.SEGUNDO));
 		alunos.add(criarAluno("Everton do Nascimento Veloso","everton-nv", 2015, Semestre.SEGUNDO));
-
+		
 		return alunos;
 		
 	}
