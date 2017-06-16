@@ -55,17 +55,17 @@ public class Application {
 	private static List<Aluno> criarAlunos() {
 		List<Aluno> alunos = new ArrayList<Aluno>(40);
 		alunos.add(criarAluno("Nome do Aluno 1", "alunoteste1", 2016, Semestre.PRIMEIRO));
-		//gaaj1980: Inclua a partir da linha abaixo, o código para incluir 
+		//gaaj1980: Inclua a partir da linha abaixo, o cï¿½digo para incluir 
 		//um aluno com os seus dados, conforme exemplo da linha acima 
 		alunos.add(criarAluno("Eric Moritsuka", "Ericthm", 2016, Semestre.PRIMEIRO));
 		alunos.add(criarAluno("Ebony Marques Rodrigues", "EbonyMarques", 2016, Semestre.PRIMEIRO));
-		alunos.add(criarAluno("João José Antonio Souza D'Amorim", "joao-damorim", 2015, Semestre.PRIMEIRO));
-		alunos.add(criarAluno("Eliana Maria silva de França", "elianamsf", 2015, Semestre.SEGUNDO));
+		alunos.add(criarAluno("Joï¿½o Josï¿½ Antonio Souza D'Amorim", "joao-damorim", 2015, Semestre.PRIMEIRO));
+		alunos.add(criarAluno("Eliana Maria silva de Franï¿½a", "elianamsf", 2015, Semestre.SEGUNDO));
 		alunos.add(criarAluno("Edson Cristovam", "Crissky", 2015, Semestre.SEGUNDO));
 		alunos.add(criarAluno("Luiz Carlos Brito de Andrade Lima Filho", "xRuisux", 2016, Semestre.PRIMEIRO));
 		alunos.add(criarAluno("Nicollas Bastos", "nicoedu", 2016, Semestre.PRIMEIRO));
 		alunos.add(criarAluno("Rafael Antonio Martins", "rumala1", 2015, Semestre.SEGUNDO));
-		alunos.add(criarAluno("Nícolas Moura", "nicolas-sss", 2016, Semestre.PRIMEIRO));
+		alunos.add(criarAluno("Nï¿½colas Moura", "nicolas-sss", 2016, Semestre.PRIMEIRO));
 		alunos.add(criarAluno("Francisco Queiroga","chicoqueiroga",2015, Semestre.PRIMEIRO));
 		alunos.add(criarAluno("Luciano Trigueiro", "nanotrigueiro", 2016, Semestre.PRIMEIRO));
 		alunos.add(criarAluno("Jose Augusto de Paiva Neto", "AugustoPaiva", 2015, Semestre.SEGUNDO));
@@ -74,6 +74,7 @@ public class Application {
 		alunos.add(criarAluno("Evele Kelle Lemos Silva","lemosevele", 2015, Semestre.SEGUNDO));
 		alunos.add(criarAluno("Everton do Nascimento Veloso","everton-nv", 2015, Semestre.SEGUNDO));
 		alunos.add(criarAluno("Manoel Antonio de Freitas Neto", "manoelbet", 2015, Semestre.PRIMEIRO));
+		alunos.add(criarAluno("Jadiel Eudes","Eudess", 2015, Semestre.SEGUNDO));
 		
 		return alunos;
 		
