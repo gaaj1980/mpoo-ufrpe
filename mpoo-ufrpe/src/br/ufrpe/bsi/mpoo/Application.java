@@ -56,6 +56,7 @@ public class Application {
 		//gaaj1980: Inclua a partir da linha abaixo, o código para incluir 
 		//um aluno com os seus dados, conforme exemplo da linha acima 
 		alunos.add(criarAluno("Eric Moritsuka", "Ericthm", 2016, Semestre.PRIMEIRO));
+		alunos.add(criarAluno("Ebony Marques Rodrigues", "EbonyMarques", 2016, Semestre.PRIMEIRO));
 		
 		return alunos;
 	}
