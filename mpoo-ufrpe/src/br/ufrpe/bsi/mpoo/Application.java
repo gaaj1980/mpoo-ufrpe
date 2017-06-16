@@ -60,7 +60,8 @@ public class Application {
 		alunos.add(criarAluno("Jo�o Jos� Antonio Souza D'Amorim", "joao-damorim", 2015, Semestre.PRIMEIRO));
 		alunos.add(criarAluno("Edson Cristovam", "Crissky", 2015, Semestre.SEGUNDO));
 		alunos.add(criarAluno("Luiz Carlos Brito de Andrade Lima Filho", "xRuisux", 2016, Semestre.PRIMEIRO));
-
+		
+		
 		return alunos;
 	}
 }
