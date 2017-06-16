@@ -57,11 +57,14 @@ public class Application {
 		//um aluno com os seus dados, conforme exemplo da linha acima 
 		alunos.add(criarAluno("Eric Moritsuka", "Ericthm", 2016, Semestre.PRIMEIRO));
 		alunos.add(criarAluno("Ebony Marques Rodrigues", "EbonyMarques", 2016, Semestre.PRIMEIRO));
-		alunos.add(criarAluno("Joï¿½o Josï¿½ Antonio Souza D'Amorim", "joao-damorim", 2015, Semestre.PRIMEIRO));
-		alunos.add(criarAluno("Eliana Maria silva de FranÃ§a", "elianamsf", 2015, Semestre.SEGUNDO));
+		alunos.add(criarAluno("João José Antonio Souza D'Amorim", "joao-damorim", 2015, Semestre.PRIMEIRO));
+		alunos.add(criarAluno("Eliana Maria silva de França", "elianamsf", 2015, Semestre.SEGUNDO));
 		alunos.add(criarAluno("Edson Cristovam", "Crissky", 2015, Semestre.SEGUNDO));
 		alunos.add(criarAluno("Luiz Carlos Brito de Andrade Lima Filho", "xRuisux", 2016, Semestre.PRIMEIRO));
 		alunos.add(criarAluno("Nicollas Bastos", "nicoedu", 2016, Semestre.PRIMEIRO));
+		
+		
 		return alunos;
+		
 	}
 }
