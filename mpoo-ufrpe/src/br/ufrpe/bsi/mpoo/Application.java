@@ -48,16 +48,6 @@ public class Application {
 		entrada.setSemestre(semestre);
 		
 		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
 		return entrada;
 	}
 	
