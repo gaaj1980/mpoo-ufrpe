@@ -46,6 +46,18 @@ public class Application {
 		Periodo entrada = new Periodo();
 		entrada.setAno(ano);
 		entrada.setSemestre(semestre);
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
 		return entrada;
 	}
 	
