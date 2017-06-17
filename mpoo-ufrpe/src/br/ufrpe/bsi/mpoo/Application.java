@@ -80,6 +80,7 @@ public class Application {
 		alunos.add(criarAluno("TESTE", "teste", 2016, Semestre.PRIMEIRO));
 		alunos.add(criarAluno("TESTE", "teste", 2016, Semestre.PRIMEIRO));
 		alunos.add(criarAluno("Jadeilson José Rocha Campos","JadeilsonRocha",2015, Semestre.SEGUNDO));
+		alunos.add(criarAluno("Ulysses Duarte Neves de Barrps","UlyssesBarros",2015, Semestre.SEGUNDO));		
 		return alunos;
 		
 	}
